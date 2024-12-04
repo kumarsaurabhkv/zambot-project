@@ -4,6 +4,27 @@ An elegant and fully functional e-commerce website built using **PHP** for backe
 
 ---
 
+# 🚀 Internal Hackathon Project
+
+This repository contains the code and resources for our **Internal Hackathon** project. Developed collaboratively with cutting-edge tools and innovative ideas, this project showcases our team's skills and creativity.
+
+---
+
+## 📜 License
+
+This project is developed as part of an **internal hackathon** and is shared for educational and collaborative purposes. Please check with your hackathon organizer for any specific usage guidelines.
+
+---
+
+## 🏫 Organized By
+
+**[ICFAI UNIVERSITY JHARKHAND , RANCHI]**  
+- 🌐 [Official Website](https://www.iujharkhand.edu.in/)  
+- 📅 Hackathon Date: _[28 FEB 2024]_
+
+---
+
+
 ## 🚀 Features
 
 - **User-friendly Interface**: Built with responsive and visually appealing components using TailwindCSS.
@@ -33,3 +54,13 @@ Contributions, issues, and feature requests are welcome!
 **Kumar Saurabh**  
 - [GitHub Profile](https://github.com/kumarsaurabhkv)  
 - [LinkedIn](https://www.linkedin.com/in/ksaurabh01/)
+
+
+## 👤 Team Members
+
+- **[Kumar Saurabh]**  
+- **[Anshul Arnav]**  
+- **[Kuber kunal Dubey]**  
+
+---
+
