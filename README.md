@@ -30,6 +30,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👤 Author
 
-**Your Name**  
+**Kumar Saurabh**  
 - [GitHub Profile](https://github.com/kumarsaurabhkv)  
 - [LinkedIn](https://www.linkedin.com/in/ksaurabh01/)
